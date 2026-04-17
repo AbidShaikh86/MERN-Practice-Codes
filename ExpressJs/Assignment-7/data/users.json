@@ -1,0 +1,24 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "name":"Abid Shaikh",
+            "email":"abid@gmail.com"
+        },
+        {
+            "id":"2",
+            "name":"Mustakim Diwan",
+            "email":"mustakim@gmail.com"
+        },
+        {
+            "id":"3",
+            "name":"mukim Diwan",
+            "email":"mukim@gmail.com"
+        },
+        {
+            "id":"4",
+            "name":"Aamir Saiyed",
+            "email":"aamir@gmail.com"
+        }
+    ]
+}
