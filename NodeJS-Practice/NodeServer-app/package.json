@@ -1,0 +1,16 @@
+{
+  "name": "demo-node-mon",
+  "version": "1.0.0",
+  "description": "Demo for nodemon in NodeJs",
+  "license": "ISC",
+  "author": "Abid Shaikh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
